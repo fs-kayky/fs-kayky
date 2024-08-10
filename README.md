@@ -70,7 +70,7 @@ Hi!  My name is [Kayky Rodrigues](https://www.linkedin.com/in/fs-kayky/), I'm th
 ## ⚡ Softwares and Tools
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,azure,postman,vscode,docker,maven,npm" />
+    <img src="https://skillicons.dev/icons?i=git,github,azure,postman,vscode,docker,npm" />
   </a>
 </p>
 
