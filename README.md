@@ -63,7 +63,7 @@ Hi!  My name is [Kayky Rodrigues](https://www.linkedin.com/in/fs-kayky/), I'm th
 <h3>I have experience</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,py" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py" />
   </a>
 </p>
 
