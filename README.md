@@ -13,6 +13,31 @@
 
 > Hi, I'm [Kayky Rodrigues](https://www.linkedin.com/in/fs-kayky/). I'm a dedicated developer passionate about transforming complex >challenges into elegant solutions. I relentlessly pursue excellence and thrive on innovation, ensuring top-notch results in every >project I tackle.
 
+<!-- Experiencia de Trabalho -->
+
+## 🏆 Work Experience
+
+Below is an overview of my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Company 1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnCKTc8UmnNAt6K2keugTVNKMfqY7B2Hlbwg&s"/>](#)
+
+**Full Stack Developer**  
+[**Bagaggio**](https://www.bagaggio.com.br) • Intern  
+Languages & Technologies: `Node.js` `Angular` `React` `Java` `Spring` `Python` `FastAPI` `RabbitMQ` `Docker`  
+Highlighted Projects: [B2B](#), [Admissions](#), [Bills Management](#), [TMS](#), [Individual Evaluation System](#)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Company 1" src="https://img.freepik.com/fotos-premium/codigo-java-na-janela-do-laptop-desenvolvedores-de-ti_338925-423.jpg?w=996"/>](#)
+
+**Full Stack Developer**  
+[**Free Lancer**](https://www.bagaggio.com.br) • Full-Time  
+Languages & Technologies: `Node.js` `React` `TypeScript` `Python` `FastAPI` `Docker` `RabbitMQ`
+<br/>
+Highlighted Projects: [Shoppe ADS Automation](#), [Designer Portfolio](#), [SweetMenu](#), [Clinic Scheduler](#)
+<br/>
+
+For more details about my work experience, education, and certifications, connect with me on [LinkedIn](https://www.linkedin.com/in/fs-kayky/).
+
 <!-- Status -->
 <h1 style="text-align: center; margin-bottom: 0;">⚙️ GitHub Analytics</h1>
 <table align="center">
