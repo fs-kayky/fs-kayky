@@ -50,7 +50,7 @@
     </td>
     <td>
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=fs-kayky&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=fs-kayky&theme=gotham"
         alt="Github Stats"
       />
     </td>
